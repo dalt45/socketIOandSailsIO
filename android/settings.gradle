@@ -1,0 +1,3 @@
+rootProject.name = 'Sails_Test'
+
+include ':app'
